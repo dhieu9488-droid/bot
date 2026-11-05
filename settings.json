@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sinhtonv.mcsh.gg",
-    "port": 15869,
+    "port": 25565,
     "version": "26.3",
     "try-creative": false
   },
